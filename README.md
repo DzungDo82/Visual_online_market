@@ -1,4 +1,5 @@
-# Sales Data of Online Supermarket - using Power BI
+# Sales Data of Online Supermarket
+### Tools used: Power BI and Excel
 
 -	The online market, a multinational business, managed a diverse portfolio of grocery stores across the United States, Canada, and Mexico, with a focus on expansion and operational diversity.
 -	Managed the implementation of a visualization task that identified three key factors: the type of data (time-series, financial, categorical, hierarchical, etc.), the preferred mode of communication (comparison, composition, distribution, or relationship), and the intended audience (manager, executive, or client), in order to generate an appropriate and effective data report.
